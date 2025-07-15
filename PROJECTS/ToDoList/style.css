@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Georgia','Serif' ;
+}
+body{
+    background: linear-gradient(to right, #4545d9, #05055d);
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    padding: 2rem;
+
+}
+.card{
+    background-color: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+    border-radius: 1rem;
+    padding: 5rem;
+    width: 50%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+
+}
+h1{
+    font-size: 2rem;
+    font-weight: bold;
+    color: #fff;
+    font-family: 'Georgia','Serif' ;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+stike.completed {
+    text-decoration: line-through;
+    text-decoration-color: #f47979;
+    opacity: 0.7;
+    font-size: 1.2rem;
+    border-radius: 1rem;
+    color: #fff;
+    font-family: 'Georgia','Serif' ;
+    text-align: center;
+    margin-bottom: 1rem;
+
+  }
+  
+.list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+}
+
+p{
+    font-size:1.2rem;
+    border-radius: 1rem;
+    color: #fff;
+    font-family: 'Georgia','Serif' ;
+    margin-bottom: 1rem;
+}
+button{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+li.list{
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 1rem;
+  
+    border-radius: 1rem;
+}
+input{
+    width: 100%;
+    padding: 1rem;
+    border-radius: 1rem;
+}#add{
+    width:auto;
+    padding: 1rem;
+    border-radius: 1rem;
+    background-color: #27df61;
+    color: #f3f3f3;
+    font-family: 'Georgia','Serif' ;
+    font-weight: bold;
+    cursor: pointer;
+    border: none;
+}
