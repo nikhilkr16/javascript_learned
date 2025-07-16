@@ -8,7 +8,7 @@ This README contains a **comprehensive, output-verified, fully explained documen
 - 📝 **Code description & flow**
 - 📦 **Output (verified)**
 - ❓ **Question based on code**
-
+- MiniProjects-> https://jsminiprojectcombo.netlify.app/
 ---
 
 ## 🔹 1. Print Name and Variable Output
