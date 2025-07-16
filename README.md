@@ -3,12 +3,13 @@
 Welcome to the **JavaScript Learned** repository!  
 This README contains a **comprehensive, output-verified, fully explained documentation** of all example code sets present in this repo. Each section features:
 
+**MiniProjects-> https://jsminiprojectcombo.netlify.app/**
+
 - 🔹 **Title with Concept**
 - 💡 **Code block**
 - 📝 **Code description & flow**
 - 📦 **Output (verified)**
 - ❓ **Question based on code**
-**MiniProjects-> https://jsminiprojectcombo.netlify.app/**
 ---
 
 ## 🔹 1. Print Name and Variable Output
